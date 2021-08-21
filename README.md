@@ -21,7 +21,7 @@
 
 ## 素材
 - [pixabay](https://pixabay.com/zh/)
- - 免费正版⾼清图⽚素材库
+  - 免费正版⾼清图⽚素材库
 - [pexels](https://www.pexels.com/zh-cn/)
   - 免费图⽚和影⽚库
 - [稿定设计](https://www.gaoding.com/introduction)
