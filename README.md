@@ -1,5 +1,5 @@
 # awesome-writing-tool-for-developer
-🔧Some writing tool for developer;收集的一些适合开发者写作的工具
+🔧A collection of writing tool for developer;收集的一些适合开发者写作的工具
 
 ## markdown
 - [typora](https://www.typora.io/)
