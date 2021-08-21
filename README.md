@@ -15,9 +15,9 @@
 
 ## 代码处理
 - [carbon](https://carbon.now.sh/)
- - 创建优美的代码截图
+  - 创建优美的代码截图
 - [TypescriptUML](https://tsuml-demo.firebaseapp.com/)
- - 根据typescript代码生成UML图
+  - 根据typescript代码生成UML图
 
 ## 素材
 - [pixabay](https://pixabay.com/zh/)
