@@ -25,11 +25,11 @@
 - [pexels](https://www.pexels.com/zh-cn/)
   - 免费图⽚和影⽚库
 - [稿定设计](https://www.gaoding.com/introduction)
- - 作图视频必备素材库
+  - 作图视频必备素材库
 - [canva](https://www.canva.cn/)
- - 可画在线图⽚设计
+   - 可画在线图⽚设计
 - [iconfont](https://www.iconfont.cn/)
- - 阿⾥妈妈⽮量图标库
+  - 阿⾥妈妈⽮量图标库
 - [colors](https://coolors.co/)
   - 配色网站
 - [processon](https://www.processon.com/)
