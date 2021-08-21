@@ -9,7 +9,7 @@
 
 ## 绘图
 - [drawio](https://github.com/jgraph/drawio-desktop)
- - ⼀款免费的绘图⼯具，⽀持流程图、系统架构图等
+  - ⼀款免费的绘图⼯具，⽀持流程图、系统架构图等
 - [excalidraw](https://excalidraw.com/)
   - 手绘风格的绘图工具；底层使用的手绘风格js库[roughjs](https://github.com/rough-stuff/rough)也值得关注
 
