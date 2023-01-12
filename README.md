@@ -1,5 +1,11 @@
 # awesome-writing-tool-for-developer
-🔧A collection of writing tool for developer;收集的一些适合开发者（写作、编程）的工具
+🔧A collection of tool for developer;收集的一些适合开发者（写作、编程）的工具
+
+## 版本管理
+- [fork](https://fork.dev/)
+  - 免费的 `git` 可视化工具，支持`mac`、`windows`  
+- [source tree](https://www.sourcetreeapp.com/)
+  - 同`fork`，可`mac`、`windows`，但`windows`上有卡顿，建议`fork` 
 
 ## markdown
 - [typora](https://www.typora.io/)
